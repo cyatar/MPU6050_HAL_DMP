@@ -1,0 +1,10 @@
+test_std_hal\ioi2c.o: IOI2C.c
+test_std_hal\ioi2c.o: ioi2c.h
+test_std_hal\ioi2c.o: F:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h
+test_std_hal\ioi2c.o: .\RTE\_TEST_STD_HAL\RTE_Components.h
+test_std_hal\ioi2c.o: ../Drivers/CMSIS/Include/core_cm3.h
+test_std_hal\ioi2c.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+test_std_hal\ioi2c.o: ../Drivers/CMSIS/Include/cmsis_version.h
+test_std_hal\ioi2c.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+test_std_hal\ioi2c.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test_std_hal\ioi2c.o: F:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h
